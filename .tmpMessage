@@ -1,12 +1,13 @@
 
 FILE:.tmpMessage
--FILE:README.md
---# Actions
---r
--+# TestPub
--+TestPub
--+
--+mlmm
-+FILE:.tmpMessage
-FILE:perso.org
-+rr
+--FILE:README.md
+---# Actions
+---r
+--+# TestPub
+--+TestPub
+--+
+--+mlmm
+-+FILE:.tmpMessage
+-FILE:perso.org
+-+rr
+FILE:config
