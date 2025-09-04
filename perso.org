@@ -1,0 +1,714 @@
+:PROPERTIES:
+:ID:       ea78a843-a9eb-4dbe-8db9-dce1e31ffff1
+:END:
+#+TODO: HABIT(h) TODO(t) WAITING(w) DELEGATED(e) TODELEGATE(o) NEXT(n) PROJET(p) DONE(d)
+#+STARTUP: overview indent nologdone nologrepeat nolognoteclock-out nologreschedule nologredeadline nologrefile
+#+title: ActionPerso
+#+FILETAGS: @P
+
+* ActAchat :@Achat:
+:PROPERTIES:
+:ID:       be88b566-b48e-4f2c-b8aa-8c24960902a5
+:END:
+** Decathlon :@Decathlon:
+:PROPERTIES:
+:ID:       85bacbab-615a-406f-808a-69052e119212
+:END:
+** FNAC :@Fnac:
+:PROPERTIES:
+:ID:       7ff97758-1836-4143-b1c8-d8c3ef0991ba
+:END:
+*** NEXT Achat Cessez de vous faire avoir, Charles Gave
+https://www.fnac.com/a20915721/Charles-Gave-Cessez-de-vous-faire-avoir-Occupez-vous-de-votre-epargne
+**** Ne pas faire du traiding, investisser sur le long terme avec sa methode
+*** NEXT La psychologie de l’argent de Morgan Housel :
+Un classique moderne. Simple, puissant, souvent contre-intuitif. Ce livre vous apprend pourquoi les meilleurs investisseurs ne sont pas toujours les plus rationnels… mais ceux qui comprennent le mieux leurs émotions.
+*** NEXT Père riche, père pauvre – Robert Kiyosaki :
+Le premier livre qui m’a fait penser différemment l’argent. C’est parfois caricatural, mais l’idée centrale reste vraie : l’école vous forme à être salarié, rarement à devenir libre.
+*** NEXT L’effet cumulé de Darren Hardy :
+La meilleure métaphore de l’investissement long terme. Petits efforts répétés > changements massifs. À lire si vous cherchez à bâtir une méthode, pas une illusion.
+*** NEXT Un rien peut tout changer (Atomic Habits) de James Clear :
+Le manuel ultime sur les habitudes. Clair, actionnable, inspirant. Idéal pour reprendre le contrôle sur vos routines et créer un effet boule de neige positif.
+*** NEXT Antifragile de Nassim Nicholas Taleb
+Tout ce qui ne vous tue pas ne vous rend pas seulement plus fort… mais plus résilient, plus agile, plus intelligent. Un livre dense, parfois déroutant, mais profondément stimulant pour penser le monde incertain.
+** NEXT Crème pour pied
+** NEXT [#B] Acheter petite tour eiffel pour les voisins des parents
+* ActSport :@Sport:
+:PROPERTIES:
+:ID:       c27df7ab-6cda-4af1-a2c9-e2caa88bd19b
+:END:
+** PROJET Preparation[[id:1081d747-e840-45c6-9a76-0adac9e96846][Marathon]]
+SCHEDULED: <2026-01-02 ven.>
+:PROPERTIES:
+:ID:       e4572db4-6aca-46bd-9007-7ac5a53c8034
+:END:
+*** NOK
+mettre NOK partout entre le jambes et autour du pubis
+*** Course
+protéger petit doigt gauche
+** [[id:54a16383-6d6c-456f-8b8d-9cdd6ed6c934][TaiChiChuan]]
+*** NEXT [#B] tchi gong carré et triangle faire avec fil
+* ActWeb :@Web:
+:PROPERTIES:
+:ID:       a704b01c-eec8-4cc4-866d-e10caf2a1b06
+:END:
+** NEXT Pourquoi l'islam n'a plus de scientifique
+** NEXT https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe
+** NEXT Regarder le personnage James Stewart dans la « La vie est belle »
+** Anglais
+*** Culture
+https://www.youtube.com/watch?v=UHR70Mkjvu4
+*** Enneagramme
+https://www.youtube.com/watch?v=cd0EahEyWT0
+*** Sport
+https://www.youtube.com/watch?v=NaWJ-7nm1CQ&list=WL&index=17
+*** web culture
+https://www.youtube.com/watch?v=oZWOYtVHpkY
+https://www.youtube.com/watch?v=biHZa7LoKng
+** TODO Video
+https://www.youtube.com/watch?v=LyuLA8uLXnY
+https://www.youtube.com/watch?v=gEbbGyNkR2U
+* ActSante :@Sante:
+:PROPERTIES:
+:ID:       ad124c31-6f52-4953-8afb-06d9a2187adf
+:END:
+** PROJET AméliorerSanté
+:PROPERTIES:
+:ID:       ea6ec876-1c12-4fa6-8aaf-40104a1353a8
+:END:
+*** Hypnotherapeute
+:PROPERTIES:
+:ID:       f22c5fef-4185-4b73-9350-e7b76bdab7e7
+:END:
+**** TODO Prendre rdv avec Hypnotherapeute
+**** NEXT Préparer rdv chez l'hyptno
+SCHEDULED: <2025-09-26 ven.>
+J'ai une peur, une censure, lorsque je parle à quelqu'un que je ne connais pas ou que j'ai peur de sa réaction ou de son status d'autorité
+***** regard des autres, je ne suis pas reconnue => syndronne de l'imposteur => je voudrais bien me séparer de ce sujet
+***** Prendre ma place à changer quelque chose en moi la dernière fois, je me suis dit que je veux prendre réellement ma place et être confiant en moi
+***** Etre plus précis et doux dans ma disussion
+****** J'ai peur de parler car ma parole n'est pas contrôl", lorsque je parle j'utilise des mots qui sont mal choisis, qui dénature ma pensé.
+***** Travailler expression en public
+**** NEXT Traiter les accophenes par hyptno
+*** Ophtalmologiste
+:PROPERTIES:
+:ID:       a15348d4-6477-4241-a83f-d190395cff1e
+:END:
+*** Allergie
+:PROPERTIES:
+:ID:       7c7b85bb-2e95-4b6c-b3a0-edee18e10aad
+:END:
+**** NEXT Prendre rdv allergo
+DEADLINE: <2025-11-21 ven.>
+Si problème d'allergie pendant la période des pollens prendre un rdv, sinon envoyer mail pour refaire l'ordonnance
+*** Dermatologue
+*** Podologue/Pedicure
+***** TODO Prendre rdv pour vérification des pieds chez [[id:75fbf6df-f123-4341-9d87-612bddf1b4c8][FlorenceCHAILLOU]]
+SCHEDULED: <2026-02-27 ven.>
+*** Kiné
+*** Coeur
+:PROPERTIES:
+:ID:       4bd9ccc4-833c-4a32-8c55-3fd9e375725b
+:END:
+**** VMA/FMC
+***** 2022
+VMA : 14.5
+FMC : 171
+**** TODO Fixer contrôle coeur écho et test effort
+SCHEDULED: <2025-09-05 ven.>
+***** Préparer document
+Dans pochette verte
+***** Question lors test effort
+venir avec montre
+***** Conseil du cardiologue
+****** HIIT
+Pas trop, attention a l'échauffement
+Pas bon pour les orthopédiste et articulations
+Pas de contradictoire mais faire correctement
+****** Refaire bilan cardiaque dans deux/trois ans
+*** HABIT Prendre vitamine D
+SCHEDULED: <2025-11-22 sam. .+1m>
+*** HABIT Mettre le vernis sur ongles de pieds
+SCHEDULED: <2025-09-05 ven. +7d>
+*** NEXT Réserver Fascia :@T:
+SCHEDULED: <2025-08-22 ven.>
+https://fascia-sport.com/
+Venir avec tenu de sport
+** PROJET Trouver un medecin généraliste :@Maison:@Zineb:
+** HABIT Brosser dents bouche fermée devant glace pour bien voir et avec monotouf
+SCHEDULED: <2025-09-07 dim. .+2w>
+** HABIT Utiliser les lunettes à trou
+SCHEDULED: <2025-09-07 dim. .+3w>
+:PROPERTIES:
+:END:
+** HABIT Nettoyer conteneur brosette à dent
+SCHEDULED: <2025-09-30 mar. .+1m>
+:PROPERTIES:
+:LAST_REPEAT: [2024-09-21 sam. 18:44]
+:END:
+** HABIT Nettoyer les écouteurs
+SCHEDULED: <2025-09-30 mar. .+1m>
+:PROPERTIES:
+:LAST_REPEAT: [2024-10-03 jeu. 16:58]
+:END:
+** Bluetens
+:PROPERTIES:
+:ID:       1bc0a734-c9df-4bd7-9b27-9b4840a88f60
+:END:
+Utiliser "Méthode HANS" ou endormophine pour le mal de muscle
+** NEXT Prendre rdv podologue
+SCHEDULED: <2025-10-03 ven.>
+* ActCurrentPerso
+:PROPERTIES:
+:ID:       8033bc77-77e7-41af-b52d-21f7901d760f
+:END:
+
+* ActGestionArgent :@Argent:
+:PROPERTIES:
+:ID:       8d14bbec-b913-4597-a310-1b195f1df066
+:ROAM_ALIASES: Bourse
+:END:
+** PROJET Gérer les actions en Bourse :@T:@Detente:
+*** NEXT [#B] Définir ma stratégie en Bourse
+**** Information autre
+Marge > 30%
+rentabilité > 30%
+ou
+PE < 12%
+rentabilité des capitaux engagés > 20%
+Bénéfice/fond propre > 10
+BFR en % du CA entre 20 et 25; <20 bien
+PE > 15 => on vend et tout est vendu à PE>20
+**** Mail de [[id:8efeb1b2-e770-478f-8715-1c84f32b82ad][MarcVERZOTTI]]
+**** https://www.youtube.com/watch?v=QjZm4Z1l3cc
+**** regarder et simuler valeur CharlesGAVE
+https://www.youtube.com/watch?v=r-5JaCVlRbI
+** PROJET Monter en compétence sur la Bourse
+*** PROJET [#B] Etudier Cash-Secured Put Selling Strategy
+**** NEXT Acheter un put pour étudier le comportement
+**** [2025-07-06 dim.]J'ai répondu
+interressant car il permet de construire un portefeuille sur le long terme.
+**** [2025-06-28 sam.]MarcVERZOTTI
+regarde cette strategie Cash-Secured Put Selling Strategy Je serais interesse pour essayer de la mettre en place peut etre on peut tenter de travailler ensemble pour faire un test et comprendre commet ca marche.
+*** NEXT Regarder les actions à dividende croissant dividende aristocrate
+car sociéte coté
+ETF lié
+*** NEXT EtudeETF
+**** ETF Inde et autre, à étudier pour les assurance vie
+passer sur des obligation
+**** ETF sur OR
+**** ETF Accumulation car les dividences sont incorporé dans l'ETF
+**** Acheter ETF UCITS et Bond STRIP dans [[id:b7acfbf9-a948-40ae-aa8e-06155fd251e0][AssuranceVie]]
+https://www.zonebourse.com/cours/etf/INVESCO-S-P-500-GARP-ETF--62355274/
+*** NEXT Etudier AllWheather de RayDalio
+** PROJET Monter en compétence sur BTC
+*** NEXT Discuter avec Vincent du le  https://www.binance.com/fr/support/faq/comment-passer-un-ordre-trailing-stop-spot-339635f6260d43c5aefa4c3c921728ec :@Web:@Detente:@20min:
+*** NEXT crédit lombard sur BTC
+**** [2025-06-26 jeu.]MarcVERZOTTI
+Si tu as du BTC tu peux faire comme un crédit lombard avec et avoir du “cash” pour réinvestir en BTC/ETH Bon moyen pour maximiser les profits je peux t expliquer
+[25/06, 07:37] Marc Verzotti: https://www.youtube.com/shorts/tuBHJhXaLXw
+Cela montre comment faire un Loan avec Binance.
+Le principe c’est de mettre en collateral tes Cryptos, je pesne que BTC/ETH est le mieux car plus stable
+Disons que tu ais pour 10k de BTC
+tu peux faire un loan de 3k USDC a 6% ce qui te donne un LTV de 30% donc il faut que le BTC tombe a 30k pour etre liqudite ce qui est presque impossible sur le BTC
+Tu peux donc apres utiliser ses 3k et acheter du BTC avec, a toi de gerer les interet et le profit que tu fais.
+Tu peux rembouser ton credit et les interets quand tu veux.
+[25/06, 07:38] Marc Verzotti: Je fais cela souvent quand le BTC descend par exemple 10%, je loan jusqu’a 30% de LTV et achete du BTC et le revends quand il a repris les 10% 🙂
+[25/06, 07:40] Marc Verzotti: Apres si cela vient proche de ton LTV tu peux rajouter de l’argent (BTC) pour eviter la liquiditation et comme il est pas cher si il vient vers ton LTV c pas si mal 🙂 mais bien entendu on parts du principe que ton LTV est tres safe. si tu veux du risque tu peux faire du LTV a 30% mais la je trouve que c trop risque pour mon coeur
+** PROJET Investir en direct dans une entreprise
+SCHEDULED: <2025-09-26 ven.>
+http://www.groupeseb.com/fr/espace-actionnaires
+lafarge
+voir à l'étrangé
+*** HABIT Achat [[id:b8e22fe2-75d1-4381-b246-f40e94f789d4][AirLiquide]]
+SCHEDULED: <2025-09-06 sam. .+2m>
+*** NEXT Ouvrir compte http://www.groupeseb.com/fr/espace-actionnaires
+** HABIT Suivre information bourse :@T:
+SCHEDULED: <2025-09-01 lun. +1w>
+https://bourse.boursobank.com/bourse/
+https://hiboo.expert/
+https://www.zonebourse.com/auteur/tommy-douziech
+** HABIT Vérifier combien argent sur [[id:470663f4-2c18-4457-925e-4317d9086639][SocieteGenerale]]
+SCHEDULED: <2025-09-02 mar. +1m>
+** HABIT Vérifier compte [[id:2b057137-5bc9-43cd-a897-127e926381d9][Degiro]] et [[id:ebfe67ca-d4e3-4ca5-bd8b-9fe4c7df945a][InteractiveBrocker]]
+SCHEDULED: <2025-09-05 ven. +1w>
+** HABIT Vérifier compte BitCoin
+SCHEDULED: <2025-09-06 sam. +1w>
+** HABIT Ne pas regarder les réseaux sociaux, prendre ce temps pour étudier les stratégies et les données des entreprises
+SCHEDULED: <2025-09-06 sam. +1w>
+** PROJET Acheter foret
+problématique est la qualité des arbres qui donne un prix à la forêt
+** PROJET Trouver du conseil sur la gestion de patrimoine :@Zineb:
+SCHEDULED: <2025-09-12 ven.>
+Rencontré au rdv des échocs : https://www.conservateur.fr/
+** TODO Vérifier que j'utilise tout l'abondement du PERCO
+SCHEDULED: <2025-11-07 ven.>
+** PROJET ComparerRésultatsPuisReplacerAllocations
+SCHEDULED: <2025-12-19 ven.>
+*** Regarder si mon placement est bon en 2024 (PEA/PER/PERCO/AssuranceVie...)
+**** Abeille : sur 5 ans => 5.56%
+Prendre en compte le 1% de prélèvement de abeille
+*** Mettre à jour nos allocations
+SCHEDULED: <2025-12-20 sam.>
+**** Fichier
+[[Argent.ods]]
+*** Réfléchir à aligner la statégie de [[id::58d47b6b-1a34-428a-af90-8f450e015b92][AGORA]] sur [[id:3ffb996c-4826-4859-bbff-081877f5c50a][PlacementDirect]]
+** DELEGATED Remboursement FWU
+SCHEDULED: <2025-09-12 ven.>
+** PROJET Préparer DéclarerImpot
+*** NEXT A regarder IBKR et Degiro :@T:@Detente:
+https://www.nos-finances-personnelles.com/guide-de-declaration-des-revenus-dun-compte-ouvert-hors-de-france/
+https://avenuedesinvestisseurs.fr/compte-titres-cto-chez-un-courtier-etranger-declaration-fiscale-des-dividendes-plus-values-interets-credits-dimpot-etc/
+https://www.youtube.com/watch?v=XnUE-QIbZ2E
+https://www.youtube.com/watch?v=I2G4-gKbgaU
+https://www.youtube.com/watch?v=YsbgnbjqaJI
+https://www.zonebourse.com/actualite-bourse/Impots-2024-Comment-declarer-vos-comptes-a-l-etranger--43926196/
+https://sinvestir.fr/declaration-d-impots-degiro/
+https://finance-heros.fr/trading-fiscalite/
+https://etre-riche-et-independant.com/declaration-impots-compte-titres-degiro
+https://www.impots.gouv.fr/particulier/questions/comment-seront-imposes-mes-revenus-percus-de-letranger#:~:text=Quand%20dois%2Dje%20remplir%20une,2042%20C%20suivant%20votre%20situation.
+**** Taux de change
+https://www.plus.transformation.gouv.fr/experiences/3651225_revenus-etrangers-donnez-nous-acces-aux-taux-de-change-svp
+https://www.banque-france.fr/fr/publications-et-statistiques/statistiques?theme[7194]=7194&sub_theme[7205]=7205&start-date=&end-date=
+***** Cacul des gains
+il faut compter les frais
+***** Taux à appliquer
+taux du jour
+par mesure de tolérance, il est admis que les contribuables peuvent utiliser un taux moyen annuel avec un taux de conversion calculé à partir de la moyenne des taux de change au 1er janvier et au 31 décembre de l’année précédente communiqués par la Banque de France (Rép. Hillmeyer : AN 29-3-2005 no 31222).
+Taux de change de l’euro par rapport aux principales devises :
+https://www.insee.fr/fr/statistiques/2381462
+***** Taxation
+https://jpchatelainavocat.fr/plus-value-de-particuliers-et-gain-de-change/#:~:text=Le%20gain%20(ou%20la%20perte,taxable%20en%20tant%20que%20tel.
+Le gain (ou la perte) de change n’est pas taxable en tant que tel.
+*** PROJET Trouver ExpertComptable
+**** [2025-06-10 mar.]DONE [#C] Téléphoner aide CSE pour trouver un ExpertComptable
+Votre numéro dédié du lundi au jeudi de 9h30 à 18 h et le vendredi de 9h30 à 17h
+01 47 00 76 79
+***** sur question précisse c'est possible
+***** Plus ficaliste que expert comptable
+*** Maitre GregoryKLEIN
+Avocat fiscaliste apporté par [[id::58d47b6b-1a34-428a-af90-8f450e015b92][AGORA]]
+**** Déclarer les CTO
+raconter une histoire de comment j'ai fait le calcul
+***** Remplir 2074, décrire le prix d'achat/vente => pas a remplir si le calcul de la plus value est réalisé par mon CTO
+***** DONE [#B] Vérifier que j'ai bien envoyé les docs aux impots
+non, je n'ai pas envoyé
+**** Prix
+Forfait
+500euro et 1000euro
+pour nous 700euro par foyer déductible si BIC réel (robien par exemple)
+**** LMP
+c'est interressant de passer en réel, car il y a amortissement
+**** DONE Prenons nous GregoryKLEIN :@Zineb:
+SCHEDULED: <2025-08-22 ven.>
+non pour Zineb, trop cher
+*** TODO Rdv aux centre des impots
+SCHEDULED: <2025-08-22 ven.>
+** DELEGATED Débit de [[id:3ffb996c-4826-4859-bbff-081877f5c50a][PlacementDirect]] :@AlanBERDAH:@MailPerso:
+SCHEDULED: <2025-09-05 ven.>
+* ActRelation :@T:
+** PROJET Visite [[id:07aa6e85-664d-47bd-ae34-bf9e7a6863df][YvesBLANC]] avant l'algérie avec [[id:c3ce2a45-3810-41f4-a83e-d4282bf3ffac][MarieMAURIN]]
+*** DONE [[id:c3ce2a45-3810-41f4-a83e-d4282bf3ffac][MarieMAURIN]] peut elle :@Mail:
+SCHEDULED: <2025-08-27 mer.>
+ok pour 14 ou 15 octobre
+*** NEXT [#B] Appeler [[id:07aa6e85-664d-47bd-ae34-bf9e7a6863df][YvesBLANC]] pour le 14 ou 15 octobre
+* ActEcouter :@Maison:
+** NEXT https://www.radiofrance.fr/dossiers/france-culture-avec-vous-a-la-bnf-francois-mitterrand?at_campaign=apocalypse_hier_et_demain&at_medium=repreneurs&at_chaine=france_culture
+* Act[[id:dba16c03-8ead-4d40-93ad-2442bf6413ae][AppartementEchiquier]]
+:PROPERTIES:
+:ID:       ae493392-d9f6-429a-b100-8cc4536fb995
+:END:
+** HABIT Vérifier si la réparation de la fuite est bien faite
+SCHEDULED: <2025-11-11 mar. .+6m>
+** TODO Vérifier pile du détecteur de fuite d'eau
+SCHEDULED: <2025-12-20 sam. +1y>
+** PROJET Mettre une VMC
+*** Mesurer largeur du trou : 9, largeur du tuyau : 8
+*** NEXT Choisir le ventilateur qui rentre dans un trou de 8
+** PROJET [#A] Changer Assurance maison
+2022 : prix : 480€
+2023 : prix : 493€
+https://www.economie.gouv.fr/particuliers/resiliation-assurance
+*** DONE Devis Boursorama pour assurance appartementechiquier
+Pas de proposition car sinistre dans les deux ans
+** HABIT Changer les serviettes de bain
+SCHEDULED: <2025-09-06 sam. +2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-19 dim. 11:34]
+:END:
+** HABIT Changer les taies de lit et house
+SCHEDULED: <2025-09-06 sam. +1w>
+** HABIT Changer couette du lit et tourner le sur-matelat
+SCHEDULED: <2025-09-06 sam. +2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-19 dim. 11:34]
+:END:
+** HABIT Tourner le matelat du lit
+SCHEDULED: <2025-11-23 dim. +3m>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-22 dim. 15:11]
+:END:
+** HABIT Changer chiffon dans le réfrigérateur
+SCHEDULED: <2025-09-05 ven. +1w>
+** HABIT Nettoyer rasoir
+SCHEDULED: <2025-10-24 ven. .+2m>
+** HABIT Laver filtre hot cuisine
+SCHEDULED: <2026-02-03 mar. .+6m>
+** HABIT Vérifier/Changer joint du réservoire de wc
+SCHEDULED: <2028-07-29 sam. +1y>
+** PROJET Prélèvement BOTIN
+*** DELEGATED Autorisation de prélèvement dans [[id:470663f4-2c18-4457-925e-4317d9086639][SocieteGenerale]]
+SCHEDULED: <2025-09-19 ven.>
+*** [2025-06-16 lun.]DONE Signer autorisation de prélèvements
+* Act[[id:e0d79b16-f91c-4dca-a9a6-35e3c988b6ff][SortieParis]]
+** NEXT Organiser un resto avec MufaFARIG et ValerieTURJMAN
+SCHEDULED: <2025-09-12 ven.>
+** NEXT Réserver theatre sur ticktack
+SCHEDULED: <2025-09-05 ven.>
+* ActWeekendVacances
+** PROJET Organiser Beaume
+aller avec [[id:da73d381-f6ba-4a0f-9c6e-ed72c9bde735][AgnesORLHAC]] en voiture, retour avec [[id:428cbf08-06d2-4dff-93d4-c2e86a029812][MarcSchmidtLeRoi]] en train
+*** NEXT [#B] Proposer et réserver place à Baune :@T:
+SCHEDULED: <2025-09-19 ven.>
+*** TODO Réserver train retour Beaune :@MarcSchmidtLeRoi:
+SCHEDULED: <2025-09-05 ven.>
+MarcSchmidtLeRoi revient avec nous le dimanche soir
+** PROJET Organiser week-end avec CedricPRESTAVOINE
+*** DELEGATED Réponse de CedricPRESTAVOINE
+SCHEDULED: <2025-09-27 sam.>
+** PROJET Organiser resto Montpellier pour mon anniversaire
+SCHEDULED: <2025-09-20 sam.>
+** PROJET Organiser VacanceOctobre (Algérie)
+:PROPERTIES:
+:ID:       968e2a3e-ad50-4eb0-9652-ef4d714e7adc
+:END:
+*** DONE [#A] Changer date VacanceOctobre :@T:
+*** PROJET VISAAlgerie
+**** DONE [#B] Hotel en algérie :@Zineb:
+**** Pièces à fournir
+https://consulat-paris-algerie.fr/visas/visa-touristique/
+***** DONE [#B] formulaire de demande de visa dûment rempli, daté et signé (en double exemplaire).
+***** DONE [#B] Passeport ayant une validité d’au moins 6 mois plus la photocopie de la première page.
+***** DONE [#B] justificatif de domicile
+***** DONE [#B] 02 photographies d’identité récentes.
+***** DONE [#A] Une attestation d’assurance voyage (rapatriement, hospitalisation et frais médicaux), à demander auprès de votre compagnie d’assurance, de votre agence de voyage ou de votre banque. Cette attestation doit être valable pour toute la durée du séjour. :@T:
+***** DONE [#B] Un certificat d’hébergement de moins de trois (03) mois légalisé par la mairie du lieu de résidence de la personne qui invite en y joignant sa pièce d’identité ou une réservation d’hôtel pour toute la durée du séjour.
+***** DONE Justificatifs de ressources : Bulletin de salaire, attestation de travail, pôle emploi, attestation de revenu de solidarité active (R.S.A.)   Kbis .
+** PROJET Préparer stage Taichi
+SCHEDULED: <2026-06-07 dim.>
+:PROPERTIES:
+:ID:       f9b269c7-895a-4dd5-b389-9525f013cccc
+:END:
+*** papier, crayon
+*** QuotienEmotionnel
+*** gourde
+*** anti moustique
+*** creme solaire
+*** chapeau
+*** Fil dentaire
+*** Couteau pour fruits
+*** Creme visage dans trousse toilette
+*** prendre rape pour pied
+*** Cheque
+*** Casquette et chapeau avec large bords
+* Act[[id:f4fb14a4-5d9b-4d6b-b8f6-98a85d9ac773][MonProjetVie]]
+:PROPERTIES:
+:ID:       0ad0cb28-7b89-4c19-afe8-6a5f46396148
+:ROAM_ALIASES: ProjetVie
+:END:
+** NEXT [#C] Lire, ecouter, des poemes
+** PROJET [#C] Travailler l'enneagramme :@T:
+*** HABIT Je suis visible et important,je reconnaît ma vraie valeur. Les autres veulent vraiment que je devienne visible. Mon existence même me donne de la valeur, Dieu a fait un bon choix en me créant. Je voie que le monde perdrait quelque chose sans moi et j'ai beaucoup à apporter à mes semblables. Ma paix de l’esprit viendra en partageant mes talents, mon intelligence et mon cœur avec le reste du monde. J'investir du temps et de l’énergie en moi-même, à développer mes talents et à me construire une dose raisonnable d’estime de soi. J'apprends à trouver plaisir à propre valeur et à ma bonté.
+Ajouter au neuf la volonté des Un d’aider ou d’offrir des conseils
+[2024-08-12 Mon]le 1 veux que tout soit parfais et juste pour lui et les autres, il donne des conseils pour que le monde soit mieux
+Ce que doit faire un 9 pour grandir sur l'aile 1 : Avoir des convictions et le sens de la justice.
+repérer lorsque mon aile 1 se mets en route (justice, defaut et imperfection)
+*** NEXT TravaillerMonAile1
+la préparation des actions dans le détail est une bonne voie pour aller vers le A
+*** NEXT Pourquoi je réagi mal à ce que je prends pour des reproches, étude enneagramme
+Etudier Lise bourbeau
+*** NEXT Enlever le regard des autres et le syndronne de l'imposteur
+regard des autres, je ne suis pas reconnue => syndronne de l'imposteur => je voudrais bien me séparer de ce sujet
+**** Je dois penser que c'est moi qui me juge, ce n'est pas les autres car ils ne me disent rien!
+** NEXT [#B] Continuer [[id:02448076-1741-4091-8ff6-4f575f26f34c][AnalyseTransactionnel]] :@T:@Detente:
+* ActAugmenter[[id:cb4b407a-5000-4649-a191-602af44a6c2f][ConnaissanceMoi]]
+** Manque de confiance, de conviction, en moi.
+*** TODO Définir les moments ou je me ne sens pas et où je me sens légitime
+*** TODO liste des sujets où j'ai confiance et un déduire une petite liste des endroits où je n'ai pas confiance
+**** me donner de la légitimité, ce n'est pas un manque de confiance car là ou je me sens légitime je suis confiant
+** DONE [#A] liste de choses que je gere bien
+ma vie personnel
+mes amours
+mes investissements financiers
+ma pratique sportive
+mon organisation
+
+* Act[[id:cd122f95-8629-4eeb-b5f0-45a2dd1034dc][PointsFortsEtAmelioration]] 
+:PROPERTIES:
+:ID:       6b54a21e-0d33-4752-b971-8a4cb4af71c9
+:END:
+* Act[[id:621eaaf5-d6df-41b0-a35a-b954af10280d][MesPeurs]]
+:PROPERTIES:
+:ID:       e0b57bfa-c97d-4550-9956-be6a912d7e99
+:END:
+** Humiliation
+Je protège mon égo qui a peur de se faire abimer et je relance les mécanismes de mon enfance "dire oui pour être accepté et plaire". Si je suis dans la position de EnfantSoumis et que l'autre est en ParentNormatif, alors pour en sortir il me faut 3 secondes pour prendre le temps de respirer et de revenir à demander des choix, de faire des arbitrage et de ne pas dire oui simple.
+*** Analyse Transactionnelle (États du Moi)
+Enfant (Adapté Soumis) : La peur de l'humiliation peut être liée à l'état du moi Enfant, en particulier l'Enfant Adapté Soumis. Cet état du moi se conforme aux attentes des autres pour éviter les conflits ou les critiques. La personne peut adopter des comportements pour éviter de se sentir embarrassée ou rejetée.
+=> Mon avis ne compte pas, tu es null en orthographe, en anglais => tu ne sais pas t'exprimer, tu es comme ta grand mère, tu es braque
+Parent (Critique) : Si la personne a intériorisé des messages critiques ou humiliants de figures d'autorité dans le passé, cela peut renforcer la peur de l'humiliation. Le Parent Critique intériorisé peut maintenir un discours interne négatif qui amplifie cette peur.
+
+*** Triangle de Karpman
+Victime : La peur de l'humiliation peut placer la personne dans le rôle de Victime dans le triangle de Karpman. Elle peut se sentir impuissante face à la possibilité d'être humiliée, ce qui renforce son sentiment de vulnérabilité.
+
+Persécuteur (intériorisé) : Parfois, la peur de l'humiliation peut être si forte que la personne adopte des comportements autodestructeurs ou se critique elle-même, jouant ainsi le rôle de Persécuteur envers elle-même.
+
+*** Stratégies pour Sortir de cette Dynamique
+Renforcer l'Adulte : Encourager la personne à analyser les situations de manière rationnelle peut l'aider à voir que la peur de l'humiliation est souvent exagérée. L'Adulte peut évaluer les risques réels et prendre des décisions basées sur des faits plutôt que sur des émotions.
+
+*** Sortir du Triangle Dramatique : Aider la personne à reconnaître quand elle entre dans le rôle de Victime et à trouver des moyens de reprendre le contrôle de la situation. Cela peut inclure des techniques d'affirmation de soi et de communication assertive.
+*** NEXT du ridicule dans le regard des autres
+**** perte de ma fierté
+** Jugement
+c'est une posture que je dois travailer, on ne me juge pas
+** Conflit
+gérer le conflit => gestion de la relation lorsque que la personne n'est pas dans le gagnant-gagnant
+Je dis comme ma mère, j'ai peur des débordement de l'alcool lorsque je suis avec des gens. Cette peur ne m'aide pas à sortir, donc je veux boire moins
+** Trop d'idéalisme
+Ma première valeur, bienveillance, me fait espérer que les autres soient bienveillance. Cependant, dans la réalité les autres personnes ont le droit d'avoir d'autre valeur, comme faire avancer le monde, entreprendre, être dans la vérité
+** Réaction innaproprié
+je manque de répondant dans les situations difficiles, j'ai peur que ma réaction soit innaproprié (trop violente)
+Avec des réponses générique, je pourrais réponse rapidement, avant la réaction de la colère, pour me laisser de la calmer et le temps de construire une réponse
+* Act[[id:d2e1d6ad-a370-408b-a4b6-12cb2fcfb520][MonHistoire]]
+** NEXT [#C] Raconter toutes mes réussites :@T:@Detente:
+** NEXT [#B] Construire un discour pour expliquer pourquoi je pense que ne pas avoir des envies est bien
+*** Construction du désir
+Lorsque j'été bébé, je n'ai pas été écouté, pas de réaction de l'environnement, dans mes peurs. J'ai arrêté de faire des demandes, donc une frustration. J'ai appris qu'il n'y avait pas de chance que je sois comblé dans mon besoin, donc j'ai arrêté de demandé et j'ai appris de ne plus avoir d'envie.
+* Act[[id:cd122f95-8629-4eeb-b5f0-45a2dd1034dc][PointsFortsEtAmelioration]]
+** Fort
+*** connaissance technique solide
+fort mais aussi vulnérabilité
+occulte la dimension stratégie et tactic pour l'entreprise
+*** connaissance métier logiciel
+*** capacité d'organisation
+*** perso
+**** remise en cause (très bien)
+a ne pas perdre
+premet de rester à la plage, employabilité
+**** vrai intérêt pour les gens
+altruiste, générosité
+*** vision métier / activité
+*** sensibilité au besion d'avoir une vision
+l'entreprise ne le demande pas mais je le fais
+*** Gestion collaboratif
+je pense en travail d'équipe pas en hiérarchie
+intérêt pour l'humain, les gens ne sont pas des machines
+*** Interrogation par la remise en cause
+capacité de remise en cause
+permet d'avancer dans la vie et faire progresser l'équipe => à voloriser dans le équipes
+*** Agréable de travailler avec moi, collaboratif
+** Amélioration
+*** Reflexion de fond sur la finalité de mon poste
+plus un influenceur technique (une ou plusieurs autre personne doit avoir ce role)
+sortir de la crainte que je n'aurais plus rien à faire si pas technique (manque de connaissance sur ce qu'il y aura à faire)
+**** c'est quoi la finalité de mon poste ?
+role de stratégie => vision une vision du monde de ce qui va se passer à 3/5 ans à mon entreprise
+capacité à dire ou il faut aller et la faire partager par la direction => partager la destination et le moyen pour y aller
+transfert de l'infuenceur technique de mon équipe vers influenceur technique de mon entreprise
+**** Identifier ce que je vois moi
+**** Mes craintes
+sortir de la crainte de ne plus rien avoir à faire si je ne rentrer pas dans la technique
+se reposer la question de la finalité de mon poste
+je m'interroge beaucoup, j'ai une crainte
+peur de quitter le rivage, ma technicité => j'ai peur de lacher la technique car j'ai peur de faire quelque chose que je ne connais pas
+est ce que je pers vraiment quelque chose ? mon taf c'est de motiver et d'organiser
+si je passe le cap, je prendrais une autre position dans l'entreprise
+**** Objectif d'un directeur
+je suis la technique de prêt, je tire les équipes alors que j'ai l'impression que ce n'est pas franchement mon job
+Il y a quelques choses qui m'échappe dans ce qu'a  à faire un Directeur !.....
+ma crainte c'est que si je lache :
+****** je n'aurais plus rien avoir à faire
+****** les choses techniques vont aller à volo
+***** Les grands sujets d'un Directeur :
+****** roadmap technique
+constituer une roadmpa tech de l'activité à 3 ans
+****** activité de réseautage technique (conf...)
+faire du réseautage pour avoir des bon contact permettant de se benchmarker et d'échanger avec des sachants sur des sujets complexes
+****** discussion avec le marketing
+avoir la vision du besoin futur et des tendances de marché
+Faire connaitre et valoriser le savoir faire de l'équipe
+****** vendre le Département AppLog en interne
+faire connaitre et valoriser le savoir faire de l'équipe
+****** échanges avec le manager sur les orientations à 2 - 3 ans
+avoir la vision du besoin futur et des tendances de marché
+****** informel avec les équipes
+entretenir du lien, entretenir l'estime du manager (toi)
+****** pilotage du budget
+****** pilotage (d'ensemble) des activités
+garantir que l'équipe délivre dans les délais, les coûts et la qualité attendus
+****** apporter la visibilité sur l'activité AppLog à l'entreprise
+apporter la visibilité sur ce qui est réalisé par l'équipe,
+La vision sur les planings et la valeur apportée par l'équipe APP LOG
+****** anticiper les problèmes
+******* RH
+besoin de recrutement, définition des profils pour demain
+****** Interargir avec les autres entités
+******* identifier les personnes et rencontrer
+Avoir un super réseau dans l'entreprise est très important
+est ce que je suis intéressé ? oui
+je trouve que c'est interressant, de comprendre plus de chose sur les choix
+****** Mettre en place la gouvernance
+****** Porter la valeur de mes équipes dans l'entreprise
+******* Vulgariser les activité
+****** Construire de l'informel
+****** Social/technique
+suivre les deux, salons lecture
+****** Guider l'entreprise vers le futur
+en restant à ma place, j'ai un role d'influence qui va dans le sens l'entreprise
+je suis trop executant, j'ai un role de conseil dans l'entreprise à l'intérieur de mon champs d'action
+définir la finalité de mon poste : qu'est ce que je m'autorise à parler vis à vis de l'entreprise
+***** Mes objectifs
+orienter les gens
+impulser les choses
+débloqer et orienter
+si je tire mes équipes, mes équipes vont attendre
+si je donne des objectifs, mes équipes vont faire le job, imaginer des solutions
+Si je résous les points technique, je déresponsabilise, freine les initiative
+mon objectifs est d'assurer le cohésion, prévoir ce qu'il y a à faire puis vérifier, controler, l'avancé pour détecter les difficultés et mettre en place un paliatif
+les interfaces sont dans mon rôle, c'est très important
+j'ai besoin de savoir pour me faire une idée et anticiper les pb
+la délégation c'est définir ce que je demande et contrôler la réalisation. Je demande un plan, des attendues.
+***** A faire
+ne pas passer la pression, c'est donner une action aux équipe et biensur je ferais des mauvais choix
+ne pas faire de remerciement et des reproches en meme temps; faire en deux temps
+définir objectifs clair
+faire plus de respiration avec ventre, 3x par jour, refaire TOP?
+ettre le sens de l'objectif dans l'EAP, pour la compagnie et l'équipe
+ettre en place un système pour détecter les signaux faibles des personnes en TT. Informer que je prends les appels tous le temps pour tout le monde
+***** Activité d'un directeur
+****** Prévoir
+besoin, moyen, techno
+l'avenir
+******* vision du futur
+IAGenerative comment l'utiliser dans l'entreprise
+****** Interraction avec l'externe
+projection sur l'intérêt de AppLog
+******* Stratégie de l'entreprise
+Alimenter les autres et moi dans me reflexion
+******* Communiqué
+Avoir des idées et les communiquer
+****** Interraction avec l'interne
+******* Management
+veille sur le management des hommes
+******* Atout et inconvénients de l'entreprise
+******** Comment rendre visible ces avantages
+******* Presentation aux équipes
+******** Faire plus de présentation
+1 com tous le 3 mois
+créer du lien et donner du sens
+visibilité
+******* Disponibilité pour les équipes
+Toujours répondre dans la journée si question
+Il faut écouter vraiment
+******** Dire que si je suis en tentative à un point, ils peuvent m'appeler pour une question
+****** Disponibilité
+le plus important : ne pas culpabilisé d'avoir du temps
+Mon role c'est d'avoir du temps pour prévoir et écouter
+*** Capacité à définir une stratégie (ou on veut aller), tactic (le chemin pour y aller)
+je veux définir où je veux aller (a quel distance de temps ou je peux identifier un but)
+Combien de temps devant je peux être clair dans mes objectifs
+déduction ou inductive (j'idenfie la route au lieu d'identifie l'objectif)
+déductif permet de partir d'un objectif et donc on reste clair dans l'objectif
+inductif oublie l'objectif
+**** DetteTechnique
+identifier
+**** Recherche stratégie inductif ou déductif
+*** Capacité à déléger
+Equipe doit me tenir informer mais je ne les guide plus il me propose des solutions
+exemple au équipes qui est vertueux car il propose des solutions
+me dégage du temps
+**** Ne pas proposer la solutions
+**** faire émerger la solution par les équipes
+*** Capacité à me projeter sur le moyen/long terme (4/5 ans)
+ou va l'entreprise et AppLog dedans
+Capacité de donner envie au équipes, leurs donner une vision de l'avenir, vers où on veut aller
+**** Capacité de stratégie
+***** plan de réduction de la dette (mesure / correction)
+***** mise en place stratégie ensemble
+***** roadmap
+**** l'activité future
+**** l'entreprise par rapport aux activités APP LOG
+**** et les équipes
+*** capacité à vendre AppLog en interne
+arketing, RH... quel sont les départements qui ont une incidence sur mon activité, menner des actions de dissémination (faire savoir ce que nous faisons)
+Trouver les clients important en interne,
+dissémination : newsletter...
+Faire savoir est vraiment important, va construire la valeur de AppLog
+Communication, c'est quoi mon objectif et mes cibles
+Capacité à fédérer les décideurs sur la valeur de AppLog => permet d'influencer les décideurs lors de choix arbitrage budgetaire
+faire connaitre et valoriser le savoir faire de l'équipe
+**** Capacité à résoter
+***** Mettre en place un réseau d'alliers
+****** Liste des noms des personnes qui peuvent m'accompagner
+******* ThibaultDONNET
+******* FlorenceHAGRY
+******* DavidBALSARIN
+******* MartinKLUGMAN
+****** Identfier ces personnes
+****** organiser de déjeuner
+****** Conseil de DavidLANIADO
+privilégier la qualité
+strate - hierearchier, sous réseaux/ombre/communauté    d'entreprise/group d'amis
+identifier les réseaux en dehors de la hierarchie, qui  couche avec qui
+personne à rencontrer
+identifier un réseaux informel et s'insérer dedans.     Décelé les connexion entre les personnes
+Donc, si le nul peut me donner accès à une personne     importante.
+Ne pas by-passser mon chef.
+refuser de me mettre dans un clans, même relation avec  tout le monde
+C'est rigolo car je peux découvrir des choses, des relations entre personnes.
+****** Passer prendre des kf
+****** Se faire voir
+
+**** echange régulier avec les autres département
+**** je vais voir quelqu'un, qu'est ce que je veux de lui
+**** Quel sont mes objectif d'influence dans l'entreprise
+**** Communication/Presentation
+lié à la difficulté de me détache du tech
+bien réfléchir à la finalité du message
+temps que je dédit à la communication, c'est fondamental
+me convaincre que c'est important de trouver l'articulation des idées que je vais présenter
+capacité à projeter dans le futur (dans 5 ans, capacité à comprendre/expliquer le futur)
+prendre le temps de définir les arguments importants, qui feront mouche
+**** identifier son objectif pour APP LOG
+**** marketing interne
+**** dissémination
+**** communication sur la valeur    de APP LOG
+**** fédérer les décideurs/influenceurs STAGO autour de la valeur de APP LOG
+
+*** instrumenter l'activité
+**** indicateurs
+**** mesure de situation
+**** prédiction
+**** processus outillés
+*** Réseaux de connaissance
+permet de me sentir à l'aise avec les gens
+*** Connaissance de l'entreprise
+**** personnes
+Je devrais être capable de connaitre les forces dans mon entourage (responsables, pairs, équipes) : Réfractaire, moteur, leur pouvoir, leur type/mentalité
+Déterminer des personnes avec qui je peux discuter, prendre conseil... En écoutant ce conseil j'établi une relation différente. La personne me demandera conseil en retour...
+***** NEXT Liste des noms des personnes qui peuvent m'accompagner
+Identifier ces personnes, organiser de déjeuner...
+**** Organisation
+Déterminer tous les noms du COMEX et ma relation avec chaque personne
+**** Politique
+S’insérer dans les réseaux, formel et informels/sousréseaux de l’entreprise
+Démontrer, faire comprendre, au delà de la valeur de ma candidature l'intérêt, l'impact, pour l'entreprise.
+***** dimension d'influence dans l'entreprise / dimension "politique"
+****** capacité à réseauter dans l'entreprise
+****** échanges réguliers avec autres départements (marketing, production, ...)
+****** mettre le département en situation d'influencer la stratégie de l'entreprise
+*** Relation avec mon responsable
+Mon chef doit me voir comme un allier stratégique, être indispensable
+Fourniture de ppt à mon encadrant sont à quel point modifié.
+Faire des CR des rdv avec mon encadrant
+Déterminer le type de mon encadrant : Hyper-Contrôle

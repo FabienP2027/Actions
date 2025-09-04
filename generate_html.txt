@@ -1,0 +1,147 @@
+#!/bin/bash
+
+# Vérifier si un argument (nom du fichier) est fourni
+if [ $# -ne 1 ]; then
+    echo "Erreur : Veuillez fournir le nom du fichier Org-mode en argument."
+    echo "Usage : $0 <fichier.org>"
+    exit 1
+fi
+
+org_file="$1"
+
+# Vérifier si le fichier existe
+if [ ! -f "$org_file" ]; then
+    echo "Erreur : Le fichier $org_file n'existe pas dans le répertoire courant."
+    exit 1
+fi
+
+# Nom du fichier de sortie
+output_file="index.html"
+
+# Début du fichier HTML
+cat << 'EOF' > "$output_file"
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualisation ActAchat</title>
+    <style>
+/* Styles pour les titres h1 à h7 avec couleurs sobres */
+h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #2c3e50; /* Bleu nuit */
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: 600;
+    color: #34495e; /* Bleu-gris foncé */
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+}
+
+h3 {
+    font-size: 1.75em;
+    font-weight: 500;
+    color: #4a6782; /* Bleu-gris moyen */
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #5d8299; /* Bleu-gris clair */
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+}
+
+h5 {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: #7197a8; /* Bleu pâle */
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+}
+
+h6 {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #8caab8; /* Bleu très clair */
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+}
+
+h7 {
+    font-size: 1em;
+    font-weight: 400;
+    color: #a7bec9; /* Bleu-gris pâle */
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ActionPerso</h1>
+        <div class="node">
+EOF
+
+# Extraire et traiter le nœud ActAchat
+in_act_achat=false
+current_level=0
+output=""
+
+while IFS= read -r line; do
+    if [[ "$line" =~ ^\: ]]; then
+        continue
+    fi
+    if [[ "$line" =~ ^\# ]]; then
+        continue
+    fi
+    if [ -z "$line" ]; then
+        continue
+    fi
+    if [[ "$line" =~ ^[[:space:]] ]]; then
+        continue
+    fi
+    if [[ "$line" =~ SCHEDULE ]]; then
+        continue
+    fi
+    if [[ "$line" =~ DEADLINE ]]; then
+        continue
+    fi
+    line="${line/id:*\]\[/}"
+    if [[ "$line" =~ ^\*[[:space:]] ]]; then
+        tag="${line#*\*}"
+        output+="<h2>$tag</h2>"
+        continue
+    fi
+    if [[ "$line" =~ ^\*\*[[:space:]] ]]; then
+        tag="${line#*\*\*}"
+        output+="<h3>$tag</h3>"
+        continue
+    fi
+    if [[ "$line" =~ ^\*\*\*[[:space:]] ]]; then
+        tag="${line#*\*\*\*}"
+        output+="<h4>$tag</h4>"
+        continue
+    fi
+    if [[ "$line" =~ ^\*\*\*\*[[:space:]] ]]; then
+        tag="${line#*\*\*\*\*}"
+        output+="<h5>$tag</h5>"
+        continue
+    fi
+    if [[ "$line" =~ ^\*\*\*\*\*[[:space:]] ]]; then
+        tag="${line#*\*\*\*\*\*}"
+        output+="<h6>$tag</h6>"
+        continue
+    fi
+    output+="<h7>$line</h7>"
+done < "$org_file"
+
+echo $output >> "$output_file"

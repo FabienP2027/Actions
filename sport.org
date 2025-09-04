@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       974f3178-9c86-4b6a-b8c4-509210xdgbad
+:END:
+#+TODO: HABIT(h) TODO(t) WAITING(w) DELEGATED(e) TODELEGATE(o) NEXT(n) PROJET(p) DONE(d)
+#+STARTUP: overview indent nologdone nologrepeat nolognoteclock-out nologreschedule nologredeadline nologrefile
+#+title: SportSemaine
+#+FILETAGS: @P
+
